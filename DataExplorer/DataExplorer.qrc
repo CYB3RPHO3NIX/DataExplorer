@@ -1,4 +1,5 @@
 <RCC>
-    <qresource prefix="DataExplorer">
+    <qresource prefix="/DataExplorer">
+        <file>C:/Users/CyberPhoenix/Desktop/icons/explore32.ico</file>
     </qresource>
 </RCC>

@@ -7,4 +7,6 @@ DataExplorer::DataExplorer(QWidget *parent)
 }
 
 DataExplorer::~DataExplorer()
-{}
+{
+
+}
